@@ -1,0 +1,33 @@
+body{
+	background-color:#ffeead;
+}
+#parent
+{
+	background-color:#ffcc5c;
+	margin: 10%;
+	display: flex;
+	justify-content:space-between;
+	border-radius: 4%;
+}
+.child
+{
+	background-color: #ff6f69;
+	margin: 4%;
+	width:25%;
+	text-align:center;
+	border-radius:4%;
+	box-shadow:4px 4px 4px 4px #D7dFE0;
+}
+img{
+	height: 40%;
+	width:80%;
+	margin:5%;
+	border-radius:15%;
+}
+p{
+	font-size:20px;
+	font-weight:initial;
+}
+h4{
+	font-size:25px;
+}
